@@ -30,7 +30,7 @@
 |12|Journal name|journal|
 |13|Out of Boundary|O|
 
-## 데이터 통계
+## Data statistics
 |Data|File name|#Journal|#Paper|#Layout Box|
 |--|--|--|--|--|
 |Train set|train.txt|503|295,306|5,241,746 |
