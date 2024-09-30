@@ -41,7 +41,7 @@
 ##  Data download
 http://doi.org/10.23057/48
 
-## Licence
+## License
 CC BY-NC
 <br>(Copyright Holder : Korea Institute of Science and Technology Information)
 
