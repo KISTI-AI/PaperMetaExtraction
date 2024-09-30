@@ -1,5 +1,5 @@
 
-# 논문 메타데이터 추출 데이터
+# 논문 메타데이터 추출 데이터(Extraction data from paper metadata)
 
 ## Outline
 - The data for extracting metadata from PDF domestic papers.
